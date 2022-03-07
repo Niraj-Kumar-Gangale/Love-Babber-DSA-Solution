@@ -1,4 +1,4 @@
-// Print weather given number -ve , +ve < zero.
+// Print weather given number uppercase, lowercase, number.
 #include<iostream>
 #include <math.h>
 
